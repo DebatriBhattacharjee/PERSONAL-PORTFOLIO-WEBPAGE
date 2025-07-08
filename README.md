@@ -57,4 +57,4 @@ The **applicability** of a personal portfolio webpage is extensive and highly be
 
 In conclusion, a personal portfolio webpage is an indispensable digital asset that effectively communicates an individual's professional narrative, skills, and accomplishments, opening doors to new opportunities in various fields.
 
-*OUTPUT* : 
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/ae7653d4-d134-49b4-90a9-3d62ad806e32)
